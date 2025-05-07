@@ -8,6 +8,8 @@
 // @match        https://screeps.com/*
 // @grant        none
 // @license      MIT
+// @downloadURL https://update.greasyfork.org/scripts/416651/screeps-chinese-pack.user.js
+// @updateURL https://update.greasyfork.org/scripts/416651/screeps-chinese-pack.meta.js
 // ==/UserScript==
 
 (function () {
