@@ -11,7 +11,7 @@ screeps-chinese-pack-release（油猴插件的js，应用于steam汉化）
 
 具体https://www.jianshu.com/p/a0aaff7204b0查看这个连接
 
-![cut-off](https://i0.hdslb.com/bfs/article/0117cbba35e51b0bce5f8c2f6a838e8a087e8ee7.png)
+![](https://i0.hdslb.com/bfs/article/0117cbba35e51b0bce5f8c2f6a838e8a087e8ee7.png)
 
 接下来我说的是新方法
 
